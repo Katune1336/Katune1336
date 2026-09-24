@@ -12,7 +12,7 @@
 
 ## `whoami`
 
-🎓 **Network & Cybersecurity Student** — ISIB / HE2B
+🎓 **Network & Cybersecurity Student** — ESI / HE2B
 💻 **Developer**
 🎵 **Music Producer & Studio Owner**
 🎛️ **BBMUSIC**
