@@ -15,9 +15,8 @@
 🎓 **Network & Cybersecurity Student** — ESI / HE2B
 💻 **Developer**
 🎵 **Music Producer & Studio Owner**
-🎛️ **BBMUSIC**
 
-I'm passionate about **cybersecurity, networking, development and technology**, while also working in music production through my studio **BBMUSIC**.
+I'm passionate about **cybersecurity, networking, development and technology**, while also working in music production through my studio.
 
 ---
 
@@ -57,11 +56,10 @@ I'm passionate about **cybersecurity, networking, development and technology**, 
 
 ---
 
-## `BBMUSIC`
+## `MUSIC`
 
 🎵 **Music Producer · Studio Owner**
 
-**BBMUSIC** is my studio and creative space dedicated to recording, music production and audio engineering.
 
 I've had the opportunity to **produce and collaborate with established French and Belgian rappers and singers**, combining technology and creativity through music.
 
@@ -97,7 +95,7 @@ Security labs, networking projects, scripts and technical experiments.
 
 Personal software projects, automation and programming experiments.
 
-### 🎵 BBMUSIC
+### 🎵 MUSIC
 
 Music production, audio engineering and creative projects.
 
